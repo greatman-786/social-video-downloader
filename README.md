@@ -55,7 +55,7 @@ Video Downloaded & Delivered
 
 1. Clone the repository
 ```bash
-git clone https://github.com/asad/social-video-downloader.git
+git clone https://github.com/greatman-786/social-video-downloader.git
 cd social-video-downloader
 ```
 
